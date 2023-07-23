@@ -9,6 +9,10 @@
 
 Esse projeto é um clone da interface de usuário (UI) do Twitter utilizando React focado em abordar os fundamentos dessa tecnologia como componentização, propriedades, estado, formulários, etc.
 
+## :building_construction: Instalação do projeto
+
+Abrir terminal e digitar 'npm install'
+
 ## :bar_chart: Rodando
 
 ### :test_tube: Exemplos de uso
